@@ -25,7 +25,7 @@
 ## update an employee
 ### Post
 #### http://localhost:3000/api/employee/update
-##### ![image](https://user-images.githubusercontent.com/52547252/116326286-5c5d9e80-a7c4-11eb-8af1-bb00f8d34e40.png)
+##### ![image](https://user-images.githubusercontent.com/52547252/116326559-076e5800-a7c5-11eb-83a5-60424687f36c.png)
 ##
 ## delete an employee
 ### Post
